@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, Helvetica, sans-serif, "Times New Roman", Times, serif;
+    font-size: 20px;
+    line-height: 150%;
+    color: #333;
+    background: #dfdbda;
+    position:relative;
+  }
+
+  #color_one{background: rgb(177, 179, 174);
+
+    width: 100%;
+    height: 100%;
+    background-color: rgb(177, 179, 174);
+    position:relative;
+    display:inline-block;
+    left:0px;
+  }
+
+  body .row1{background: rgb(177, 179, 174);
+
+    width: 100%;
+    height: 100%;
+    background-color: rgb(177, 179, 174);
+    position:relative;
+    display:inline-block;
+    left:0px;
+  }
+
+
+  .line_one >.d1 {
+    width: 200px;
+    height: 60px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0); 
+    position:relative;
+    display:inline-block;
+    left:50px;
+  }
+  .line_one>.d1>h1{text-align: center; color:rgb(255, 255, 255)}
+
+  
+  .form-inline>.dropdown{display:outside;position:absolute;right:50%;top:40%}
+  .form-inline>form>.Button1{position:absolute;right:50%;display:outside;}
+  .form-inline>form>.Button2{position:absolute;right: 50px; display:outside;}
+
+  
+  header {
+    background: rgb(0, 0, 0);
+  }
+  
+  header>h1 {
+    padding: 0px ;
+    margin: 0px;
+    margin-bottom: 0px;
+    font-size: 48px;
+    color:rgb(255, 255, 255);
+    text-align: left;
+  }
+  
+
+  a {
+    color: #000000;
+  }
+  
+  .container{
+      max-width: fit-content;
+      max-height: fit-content;
+    margin: 10px; 
+    background: #dfdbda;
+  }
+
+  .container1 {
+    position:relative;
+    margin-top: 50px ;
+    margin-left: 10px;
+    margin-right: 50px;
+    padding: 20px;
+    background:rgb(196, 196, 191);
+  }
+
+  .container2 {
+    width: 500px;
+    height: 520px;
+    position:relative;
+    margin-top: 50px ;
+    margin-left: 0px ;
+    margin-right: 0px ;
+    padding: 20px;
+    background: rgb(196, 196, 191);
+  }
+  
+  #figure_one{
+
+    float:left
+  }
+  
+  #introduction>p{color:black;
+position: center;}
+
+  #figure_one>h2{position:absolute;
+    right:0px;
+    top:0px;
+}
+
+.container>h2{position:relative;
+    right:500px;
+    top:0px;
+    color:rgb(158, 158, 152);
+    font-size:400
+}
+
+.container_data{padding: 10px ;
+  margin: 30px;
+background-color: white}
+
+header>h2 {
+  padding: 0px ;
+  margin: 0px;
+  margin-bottom: 0px;
+  font-size: 30px;
+  color:whitesmoke;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  width: auto;
+}
+
+figure figcaption {
+  border: whitesmoke;
+  text-align: center;
+  color:rgb(0, 0, 0);
+}
+
+header>h1 {
+    padding: 0px ;
+    margin: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    color:rgb(255, 255, 255);
+    position:relative;
+    left:20px;
+  }
+  
+
+  .comp_container figure >img { width: auto;
+	height: auto;
+	max-width: 100%;
+	max-height: 100%;}
